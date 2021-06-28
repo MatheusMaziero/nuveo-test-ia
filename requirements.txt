@@ -1,0 +1,13 @@
+numpy
+opencv-python
+PyQt5
+pyqt5-tools
+scikit-learn
+csv
+pandas
+pickle
+os
+tensorflow
+
+
+
